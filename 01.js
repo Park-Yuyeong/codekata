@@ -1,4 +1,4 @@
-class FixedArray {
+export class FixedArray {
   #arrayLength;
   #array;
   #count;
